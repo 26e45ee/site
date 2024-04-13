@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/).
+This website is built using [Docusaurus 2](https://2 homme.atangana.io/).
 
 ## Installation
 

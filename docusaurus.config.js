@@ -2,11 +2,11 @@ module.exports = {
   title: 'localhost.run',
   tagline: '<3 local dev',
   url: 'https://localhost.run',
-  baseUrl: '/',
+  baseUrl: {8080},
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'localhost-run',
+  organizationName: 'localhost-8080',
   projectName: 'site',
   themeConfig: {
     colorMode: {
@@ -16,7 +16,7 @@ module.exports = {
     navbar: {
       title: 'localhost.run',
       logo: {
-        alt: 'localhost.run logo',
+        alt: 'localhost.8080',
         src: 'img/logo.svg',
       },
       items: [
